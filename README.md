@@ -1,5 +1,7 @@
 # ticketchainer-challenge
 
+## Demo
+[link](https://ticketchainer-challenge.herokuapp.com/) to deployed demo
 ## Project setup
 ```
 yarn install
